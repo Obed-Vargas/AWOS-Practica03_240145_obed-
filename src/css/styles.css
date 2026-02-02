@@ -16,7 +16,7 @@
     }
 
     .api-card {
-        @apply bg-white rounded-xl shadow-lg border border-gray-200 p-6 transition-all duration300 hover:shadow-xl;
+        @apply bg-white rounded-xl shadow-lg border border-gray-200 p-6 transition-all duration-300 hover:shadow-xl;
     }
 }
 
