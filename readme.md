@@ -79,7 +79,7 @@ npm start
 
 Crea un archivo `.env` con la clave (ejemplo):
 ```
-PORT=3000
+PORT=40145
 GOOGLE_MAPS_API_KEY=TU_CLAVE_DE_GOOGLE_MAPS_AQUI
 NODE_ENV=development
 ```
