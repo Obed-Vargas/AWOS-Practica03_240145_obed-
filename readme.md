@@ -15,7 +15,7 @@ Esta práctica será desarrollada con estructura de ramitas por cada fase, para 
 | 3. | Configuración de la Librería de Estilos (Tailwind CSS) | X | ✅ finalizado |
 | 4. | Creación de Vistas | X  | ✅ finalizado |
 | 5. | Implementación de Backend para Consumo GS | X | ✅ finalizado |
-| 6. | Configuración del Entorno | X | ❌ Sin iniciar |
+| 6. | Configuración del Entorno | X | ✅ finalizado |
 | 7. | Pruebas de Ejecución | X | ❌ Sin iniciar |
 | 8. | Documentación | X | ❌ Sin iniciar |
 
