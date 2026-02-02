@@ -441,6 +441,7 @@ function exportMarkers() {
         exportDate: new Date().toISOString()
     };
 
+    
     const dataStr = JSON.stringify(markersData, null, 2);
     const dataUri = 'data:application/json;charset=utf-8,' + encodeURIComponent(dataStr);
     const exportFileDefaultName = `map-markers-${new Date().toISOString().slice(0, 10)}.json`;
