@@ -11,7 +11,7 @@ Esta práctica será desarrollada con estructura de ramitas por cada fase, para 
 | No. | Descripción | Ponderador | Estatus |
 |-----|-------------|------------|---------|
 | 1. | Configuración del Proyecto | 3 | ✅ finalizado |
-| 2. | Configuración del Servidor | 5 | sin iniciar|
+| 2. | Configuración del Servidor | 5 | ✅ finalizado|
 | 3. | Configuración de la Librería de Estilos (Tailwind CSS) | X | ❌ Sin iniciar |
 | 4. | Creación de Vistas | X | ❌ Sin iniciar |
 | 5. | Implementación de Backend para Consumo GS | X | ❌ Sin iniciar |
