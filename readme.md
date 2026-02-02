@@ -16,7 +16,7 @@ Esta práctica será desarrollada con estructura de ramitas por cada fase, para 
 | 4. | Creación de Vistas | X  | ✅ finalizado |
 | 5. | Implementación de Backend para Consumo GS | X | ✅ finalizado |
 | 6. | Configuración del Entorno | X | ✅ finalizado |
-| 7. | Pruebas de Ejecución | X | ❌ Sin iniciar |
+| 7. | Pruebas de Ejecución | X | ✅ finalizado |
 | 8. | Documentación | X | ❌ Sin iniciar |
 
 
