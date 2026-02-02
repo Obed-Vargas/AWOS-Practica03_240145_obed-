@@ -1,0 +1,44 @@
+{
+  "name": "awos-practica03_240145_obed-",
+  "version": "1.0.0",
+  "description": "Consumo de APIs de geolocalización en un entorno de NodeJS",
+  "keywords": [
+    "Google",
+    "Maps",
+    "Leaflet",
+    "Geolocalización",
+    "NodeJS",
+    "APIs"
+  ],
+  "homepage": "https://github.com/Obed-Vargas/AWOS-Practica03_240145_obed-#readme",
+  "bugs": {
+    "url": "https://github.com/Obed-Vargas/AWOS-Practica03_240145_obed-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obed-Vargas/AWOS-Practica03_240145_obed-.git"
+  },
+  "license": "ISC",
+  "author": "Obed Vargas Luna",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build:css": "tailwindcss build src/css/styles.css -o public/css/styles.css",
+    "watch:css": "tailwindcss build src/css/styles.css -o public/css/styles.css --watch"
+  },
+  "dependencies": {
+    "axios": "^1.13.4",
+    "dotenv": "^17.2.3",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.11",
+    "autoprefixer": "^10.4.24",
+    "nodemon": "^3.1.11",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  }
+}
