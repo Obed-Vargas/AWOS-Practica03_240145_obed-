@@ -18,7 +18,7 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
 // Variables globales para APIs (en producción usar variables de entorno)
-app.locals.googleMapsApiKey = process.env.GOOGLE_MAPS_API_KEY || 'TU_CLAVE_AQUI';
+app.locals.googleMapsApiKey = process.env.GOOGLE_MAPS_API_KEY || 'AIzaSyCuIPgNfPmDEb9i9a7YZsEHFHXqbKU5xPU';
 app.locals.openStreetMapUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 
 // Rutas
