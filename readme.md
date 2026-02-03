@@ -97,13 +97,16 @@ NODE_ENV=development
 
 ---
 
-## Releases
+## Imagenes / Capturas del sistema funcionando
 
-No releases published
+Galería de capturas del sistema (Google Maps y Leaflet):
 
-## Packages
-
-No packages published
+<p align="center">
+  <img src="image/image.png" alt="Captura - image.png" width="420" style="margin:8px" />
+  <img src="image/image%20copy.png" alt="Captura - image copy.png" width="420" style="margin:8px" />
+  <img src="image/image%20copy%202.png" alt="Captura - image copy 2.png" width="420" style="margin:8px" />
+  <img src="image/image%20copy%203.png" alt="Captura - image copy 3.png" width="420" style="margin:8px" />
+</p>
 
 ---
 
